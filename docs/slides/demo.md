@@ -208,7 +208,7 @@ Quick small text inside circles
 
 ---
 
-<!-- .slide: data-state="layout-background-image" data-background-image="images/photo.jpg" -->
+<!-- .slide: data-state="layout-background-image" data-background-image="images/GBD_T2_1_entidad_relacion_Page 1_T2.png" -->
 
 # Background with an image<!-- .element: class="animate__animated animate__backInDown  animate__fast " -->
 
