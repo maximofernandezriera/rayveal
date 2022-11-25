@@ -1,3 +1,8 @@
+<!-- .slide: data-state="layout-title"  -->
+
+# Bases de datos
+
+## Unidad 2
 ---
 
 <!-- .slide: data-state="layout-background-image" data-background-image="images/GBD_T2_1_entidad_relacion_Page 1_T2.png" -->
